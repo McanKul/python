@@ -1,0 +1,16 @@
+{
+  "firtName": "Mehmetcan",
+  "lastName": "Kul",
+  "hobies": [
+    "Buz Pateni",
+    "Satranç",
+    "Film"
+  ],
+  "age": 19,
+  "children": [
+    {
+      "firtName": "Reyna",
+      "age": 4
+    }
+  ]
+}

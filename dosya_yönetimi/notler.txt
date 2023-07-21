@@ -1,0 +1,5 @@
+mehmetcan kul:100,100,19
+alihan seher:90,70,80
+deniz durmuş:100,50,90
+yakup aydınlı:50,30,20
+sümeyye kul:100,90,95

@@ -1,0 +1,26 @@
+{
+  "users": {
+    "McanKul": {
+      "firstName": "Mehmetcan",
+      "lastName": "Kul"
+    },
+    "Destroyer61": {
+      "firstName": "Muzaffer",
+      "lastName": "SarÃ„Â±mehmet"
+    }
+  },
+  "products": {
+    "1": {
+      "pruductName": "Iphone X",
+      "price": 8000
+    },
+    "2": {
+      "pruductName": "Iphone 12",
+      "price": 10000
+    },
+    "3": {
+      "pruductName": "Iphone 13",
+      "price": 15001
+    }
+  }
+}
