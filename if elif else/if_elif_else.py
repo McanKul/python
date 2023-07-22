@@ -8,7 +8,7 @@
 # else:
 #     print("girdiğiniz sayı pozitif tek sayı değildir")
 
-# yakıt = input("aracınız dizel mi").lower().strip()
+# yakıt = input("aracınız dizel mi").lower().str ip()
 # ortyakılan = float(input("aracınız 100 km de kaç litre yakıt tüketiyor"))
 # mesafe = float(input("kaç kilometre gittiniz"))
 # dizel = 12.3
