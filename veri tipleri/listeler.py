@@ -91,8 +91,8 @@ ogrenciler= {
    "soyadı":"kul",
    "yaş":18,},
   210:{
-    "adı":"yaren",
-    "soyadı":"oktay",
+    "adı":"safa",
+    "soyadı":"değil",
     "yaş":19
   }}
 # x=int(input("öğrenci numarısını giriniz"))

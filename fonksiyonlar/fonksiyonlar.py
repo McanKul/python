@@ -140,11 +140,11 @@
 # print(karsılastırma(14,67))
 
 
-# # # def hesaplama(anan):
+# # # def hesaplama(ananas):
 # # #     dicti= {
 
 # # #     }
-# # #     harfler = ("-".join(str(anan).strip("1234567890*,."))).split("-")
+# # #     harfler = ("-".join(str(ananas).strip("1234567890*,."))).split("-")
 # # #     k=1
 # # #     for i in harfler: 
 # # #         if i in dicti:
@@ -161,14 +161,11 @@
 # # # bananas= input("hesaplanmasını istediğiniz kelime sayısını giriniz")
 # # # print(hesaplama(bananas))
 
-# def kontrol(blue):
-#     if "blue" in blue:
-#         return True
-#     else:
-#         return False
+def kontrol(blue):
+    if "blue" in blue:
+        return True
+    else:
+        return False
 
-# liste = ["red","black"]
-# print(kontrol(liste))
-anan = input("lütfen cümle giriniz").split( )
-for i in anan:
-    print(i)
+liste = ["red","black"]
+print(kontrol(liste))

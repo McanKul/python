@@ -37,7 +37,7 @@ def get_user(name,surname):
 
 #yazdirmaişleminde nasıl boşluk bırakmaması gerektiğini öğrenmem gerekiyor çok önemli
 
-def update_user(name,surname,yeni_name,yeni_surname):
+def update_user(name,surname,yeni_name,*yeni_surname):
     n=2
     isim = name.capitalize()
     soyisim = surname.capitalize()
@@ -75,6 +75,6 @@ def delete_user(name,surname):
         header= ["Name","Surname"]
         csv.DictWriter(file, header).writeheader()
         csv.DictWriter(file, header).writerows(liste)
-delete_user("alican","yilmaz")
-        
 
+        
+update_user("safa","demirci","cafer")
